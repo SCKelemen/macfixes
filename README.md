@@ -6,5 +6,5 @@ Copy `DefaultKeyBinding.dict` to
 
 ## defaults
 ```sh
-com.apple.finder AppleShowAllFiles YES
+defaults write com.apple.finder AppleShowAllFiles YES
 ```
