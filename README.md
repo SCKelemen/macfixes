@@ -8,3 +8,10 @@ Copy `DefaultKeyBinding.dict` to
 ```sh
 defaults write com.apple.finder AppleShowAllFiles YES
 ```
+
+## KeyBoard 
+_ Keyboard
+\das keyboard\modifiers\
+command => option
+option => command
+
