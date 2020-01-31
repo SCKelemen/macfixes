@@ -18,3 +18,6 @@ git clone https://github.com/SCKelemen/resources.git ./
 
 echo Show Hidden Files in Finder
 defaults write com.apple.finder AppleShowAllFiles YES
+
+echo Turn off SmartQuotes
+defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
